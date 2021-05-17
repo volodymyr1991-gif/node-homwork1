@@ -1,0 +1,25 @@
+{
+  "name": "node-homwork1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volodymyr1991-gif/node-homwork1.git"
+  },
+  "keywords": [],
+  "author": "Volodimir Molodinja <molodunja91@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volodymyr1991-gif/node-homwork1/issues"
+  },
+  "homepage": "https://github.com/volodymyr1991-gif/node-homwork1#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "yargs": "^17.0.1"
+  }
+}
